@@ -1,4 +1,4 @@
-#include "TheGame.h"
+#include "MyGame.h"
 #include "Engine.h"
 #include "GameComponents/EnemyComponent.h"
 

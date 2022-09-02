@@ -1,5 +1,5 @@
 #include "Engine.h"
-#include "TheGame.h"
+#include "MyGame.h"
 #include <iostream>
 
 int main(){

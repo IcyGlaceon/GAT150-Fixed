@@ -24,7 +24,7 @@
     <ClCompile Include="GameComponents\EnemyComponent.cpp">
       <Filter>Source Files\GameComponents</Filter>
     </ClCompile>
-    <ClCompile Include="TheGame.cpp">
+    <ClCompile Include="MyGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,7 +32,7 @@
     <ClInclude Include="GameComponents\EnemyComponent.h">
       <Filter>Source Files\GameComponents</Filter>
     </ClInclude>
-    <ClInclude Include="TheGame.h">
+    <ClInclude Include="MyGame.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

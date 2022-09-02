@@ -162,7 +162,7 @@
             {
                "type":"TextComponent",
                "text":"000",
-               "font_name":"QuirkyRobot.ttf",
+               "font_name":"pkmnrs.ttf",
                "font_size":32,
                "registration":[
                   0.0,
@@ -195,7 +195,7 @@
             {
                "type":"TextComponent",
                "text":" ",
-               "font_name":"QuirkyRobot.ttf",
+               "font_name":"pkmnrs.ttf",
                "font_size":32,
                "registration":[
                   0.0,
